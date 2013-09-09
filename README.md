@@ -7,6 +7,6 @@ Code is organized into basic models and views. The logic determining if a piece 
 
 Currently not a fully functional game. Missing features, like checkmate and exchanging pawn pieces.
 
-Demo here: [nrcdesign.com/require-chess](http://nrcdesign.com/require-chess)
+Demo here: [nrcdesign.com/require-chess](http://nrcdesign.com/require-chess) might require refreshing the page
 
 Uses svg. Only tested in Chrome.
